@@ -3,6 +3,8 @@
 
 #define MIRYOKU_CLIPBOARD_MAC
 
+#define XXX &none
+
 #define MIRYOKU_ALTERNATIVES_NUM \
 U_BOOT,            &u_to_U_TAP,       &u_to_U_EXTRA,     &u_to_U_BASE,      U_NA,              &kp LBKT,          &kp N7,            &kp N8,            &kp N9,            &kp RBKT,          \
 &kp LGUI,          &kp LALT,          &kp LCTRL,         &kp LSHFT,         U_NA,              &kp EQUAL,         &kp N4,            &kp N5,            &kp N6,            &kp SEMI,          \
