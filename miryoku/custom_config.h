@@ -1,6 +1,8 @@
 // Copyright 2021 Manna Harbour
 // https://github.com/manna-harbour/miryoku
 
+#define MIRYOKU_ALPHAS_AZERTY
+#define MIRYOKU_NAV_VI
 #define MIRYOKU_CLIPBOARD_MAC
 
 #define XXX &none
