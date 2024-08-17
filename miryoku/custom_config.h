@@ -5,6 +5,10 @@
 #define MIRYOKU_NAV_VI
 #define MIRYOKU_CLIPBOARD_MAC
 
+#define OUT_BLE
+
+CONFIG_ZMK_BACKLIGHT=y
+
 #define XXX &none
 
 #define MIRYOKU_ALTERNATIVES_NUM \
