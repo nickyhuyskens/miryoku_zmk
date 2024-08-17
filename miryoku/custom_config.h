@@ -7,7 +7,7 @@
 
 #define OUT_BLE
 
-CONFIG_ZMK_BACKLIGHT=y
+
 
 #define XXX &none
 
